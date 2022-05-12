@@ -1,9 +1,13 @@
 # Markie
 
-Code for walking with Markie.
-
 ## Contributor
 Daniël Koomen
+
+## Description
+Code for walking with Markie.
+
+## How to use?
+Merge the content of the Arduino folder in your local Arduino folder.
 
 ## Useful links
 
