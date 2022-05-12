@@ -2,5 +2,5 @@
 
 Code for walking with Markie.
 
-##Contributor
+## Contributor
 Daniël Koomen
